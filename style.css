@@ -1,0 +1,4 @@
+p{text-align: justify;}
+h3{color:orange}
+table{text-align: center;}
+p[type="range" id="Albanian" min="0" max="100" value="100" step="10"]{color:blue}
